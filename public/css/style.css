@@ -1,0 +1,74 @@
+.post-container .action-buttons {
+  margin-bottom: 5px;
+}
+.question-react-btns {
+  padding: 5px;
+  font-size: 12px;
+  margin-right: 5px;
+}
+.answer-container, .reply-container, .clarification-container {
+  display: none;
+  margin-top: 20px;
+}
+.comments-container {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.comment-container {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.comment-container:first-child {
+  margin-top: 5px;
+}
+.comment-container:last-child {
+  margin-bottom: 5px;
+}
+.comment-head {
+  padding-bottom: 5px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #cccccc;
+}
+.single-rep-container {
+  padding: 10px;
+  font-size: 11px;
+  font-family: monospace;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #999999;
+  border-radius: 5px;
+  background-color: #fff5ee;
+}
+.sing-rep-head {
+  border-bottom: 1px solid #cccccc;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
+.single-rep-container .action-buttons {
+  height: 10px !important;
+}
+.no-data-found {
+  padding: 10px;
+  text-align: center;
+}
+.note-editor {
+	margin-bottom: 0px !important;
+}
+.suggestions {
+  margin-bottom: 3px;
+}
+.suggestion-div {
+  padding: 3px;
+  font-size: 12px;
+  border-bottom: 1px solid #999999;
+  background-color: #f1f1f1;
+}
+.clarification-bold {
+  display: inline-block;
+}
+.suggest-action-buttons {
+  margin-right: 2px;
+}
